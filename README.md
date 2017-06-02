@@ -8,10 +8,10 @@ Dans le cadre de son activité ailTECH vous demande de développer une applicati
 de notation des spectacles du festival KOMIDI.
 Le principe fondateur du festival Komidi repose sur l'accès à la culture pour tous. Il se donne pour
 visée de proposer une grande diversité de spectacles et de genres théâtraux pour que chacun
-puisse satisfaire sa curiosité1. Devenu un rendez-vous incontournable, Komidi attire des
+puisse satisfaire sa curiosité. Devenu un rendez-vous incontournable, Komidi attire des
 spectateurs qui viennent de toute l'île pour assister à des représentations théâtrales dont les
-billets coûtent de 1 à 3 euros l'unité2. Des représentations scolaires sont au programme tous les
-ans, elles sont gratuites et ont brassé plus de 10 000 élèves3 de la maternelle au lycée lors de
+billets coûtent de 1 à 3 euros l'unité. Des représentations scolaires sont au programme tous les
+ans, elles sont gratuites et ont brassé plus de 10 000 élèves de la maternelle au lycée lors de
 l'édition 2014 et 13 000 en 2016.
 L'application devra répondre à l'ensemble des besoins soulevés par le dirigeant de komidi, qui sont:
 
@@ -28,8 +28,7 @@ L'application devra répondre à l'ensemble des besoins soulevés par le dirigea
     ainsi que quelques membres et spectacles pré-crées
     
   Des documents fournits au début du projet sont disponible dans le dépôt.
-  Le projet est réalisé à la base en équipe mais spécialement pour l'épreuve E4 j'ai réalisé celui-ci en individuel , il regroupe
-  ma part des tâches car j'ai effectué une refonte complète du projet initiale. 
+  Le projet est réalisé à la base en équipe mais spécialement pour l'épreuve E4 j'ai réalisé celui-ci en individuel , il                  regroupe ma part des tâches car j'ai effectué une refonte complète du projet initiale. 
   Voici les avantages de la refonte :
   
     - Un Framework MVC crée manuellement
@@ -38,5 +37,6 @@ L'application devra répondre à l'ensemble des besoins soulevés par le dirigea
     - Automatisation du routage des requêtes
     - Accès générique aux données
     - Sécurisation des données reçues et affichées pour éviter les injections SQL 
-
+    
+  Les identifiants pour se connecter : admin@gmail.com/komidi ou tototiti@gmail.com/TTiti
     
